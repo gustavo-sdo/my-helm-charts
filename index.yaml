@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  base-api:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-11-01T00:31:33.400826675-03:00"
+    description: A Helm chart for the base-api
+    digest: 79a3d8c9b5226b1ae4e1f712b8f012461d216df9c2a19654c43a996c448b8eab
+    name: base-api
+    urls:
+    - https://github.com/gustavo-sdo/my-helm-charts/base-api-0.0.1.tgz
+    version: 0.0.1
+  base-web:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-11-01T00:31:33.400933675-03:00"
+    description: A Helm chart for the base-web
+    digest: 195d2a3e07445f98696233f33c86ee625bde8ec2f51a1ca8b22d1989d91de302
+    name: base-web
+    urls:
+    - https://github.com/gustavo-sdo/my-helm-charts/base-web-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-11-01T00:31:33.400601275-03:00"
